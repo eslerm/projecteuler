@@ -9,3 +9,6 @@
  - [Problem 3 - Largest prime factor](euler-003.ipynb)
  - [Problem 4 - Largest palindrome product](euler-004.ipynb)
  - [Problem 5 - Smallest multiple](euler-005.ipynb)
+ - [Problem 6 - Sum square difference](euler-006.ipynb)
+ - [Problem 7 - 10001st prime](euler-007.ipynb)
+ - [Problem 8 - Largest product in a series](euler-008.ipynb)
