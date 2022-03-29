@@ -12,3 +12,4 @@
  - [Problem 6 - Sum square difference](euler-006.ipynb)
  - [Problem 7 - 10001st prime](euler-007.ipynb)
  - [Problem 8 - Largest product in a series](euler-008.ipynb)
+ - [Problem 9 - Special Pythagorean triplet](euler-009.ipynb)
