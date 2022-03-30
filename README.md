@@ -13,3 +13,4 @@
  - [Problem 7 - 10001st prime](euler-007.ipynb)
  - [Problem 8 - Largest product in a series](euler-008.ipynb)
  - [Problem 9 - Special Pythagorean triplet](euler-009.ipynb)
+ - [Problem 10 - Summation of primes](euler-010.ipynb)
