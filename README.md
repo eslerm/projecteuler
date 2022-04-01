@@ -15,3 +15,4 @@
  - [Problem 9 - Special Pythagorean triplet](euler-009.ipynb)
  - [Problem 10 - Summation of primes](euler-010.ipynb)
  - [Problem 11 - Largest product in a grid](euler-011.ipynb)
+ - [Problem 12 - Highly divisible triangular number](euler-012.ipynb)
