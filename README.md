@@ -17,3 +17,4 @@
  - [Problem 11 - Largest product in a grid](exercises/euler-011.ipynb)
  - [Problem 12 - Highly divisible triangular number](exercises/euler-012.ipynb)
  - [Problem 13 - Large sum](exercises/euler-013.ipynb)
+ - [Problem 14 - Longest Collatz sequence](exercies/euler-014.ipynb)
