@@ -20,3 +20,4 @@
  - [Problem 14 - Longest Collatz sequence](exercises/euler-014.ipynb)
  - [Problem 15 - Lattice paths](exercises/euler-015.ipynb)
  - [Problem 16 - Power digit sum](exercises/euler-016.ipynb)
+ - [Probelm 17 - Number letter counts](exercises/euler-017.ipynb)
