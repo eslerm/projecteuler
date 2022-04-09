@@ -21,3 +21,4 @@
  - [Problem 15 - Lattice paths](exercises/euler-015.ipynb)
  - [Problem 16 - Power digit sum](exercises/euler-016.ipynb)
  - [Probelm 17 - Number letter counts](exercises/euler-017.ipynb)
+ - [Probelm 18 - Maximum path sum I](exercises/euler-018.ipynb)
