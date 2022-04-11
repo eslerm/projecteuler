@@ -22,3 +22,4 @@
  - [Problem 16 - Power digit sum](exercises/euler-016.ipynb)
  - [Probelm 17 - Number letter counts](exercises/euler-017.ipynb)
  - [Probelm 18 - Maximum path sum I](exercises/euler-018.ipynb)
+ - [Probelm 19 - Counting Sundays](exercises/euler-019.ipynb)
